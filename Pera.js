@@ -1,0 +1,1 @@
+console.log("Esta fruta puede ser de color Verde o amarila")
